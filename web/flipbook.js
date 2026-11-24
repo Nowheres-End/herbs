@@ -10,7 +10,7 @@
   return [description,plate];
  });
  book.innerHTML=pages.join('');
- const pageFlip=new St.PageFlip(book,{width:640,height:720,size:'stretch',minWidth:320,maxWidth:640,minHeight:360,maxHeight:720,drawShadow:true,flippingTime:1100,usePortrait:false,startPage:0,autoSize:false,maxShadowOpacity:.3,showCover:false,mobileScrollSupport:false,swipeDistance:24,clickEventForward:true,useMouseEvents:true,disableFlipByClick:false});
+ const pageFlip=new St.PageFlip(book,{width:640,height:720,size:'stretch',minWidth:160,maxWidth:640,minHeight:180,maxHeight:720,drawShadow:true,flippingTime:1100,usePortrait:false,startPage:0,autoSize:false,maxShadowOpacity:.3,showCover:false,mobileScrollSupport:false,swipeDistance:24,clickEventForward:true,useMouseEvents:true,disableFlipByClick:false});
  pageFlip.loadFromHTML(book.querySelectorAll('.flip-page'));
  const stage=document.querySelector('#stage'),closedCover=document.querySelector('#closedCover');
  let autoAdvanceTimer;
