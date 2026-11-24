@@ -21,3 +21,5 @@ Then visit <http://localhost:8000>. The viewer supports page arrows, keyboard ar
 Blend membership comes from the current public Nowhere’s End herb library. TTB label records identify the label art and product name; they do not establish herb membership. Historical medicinal descriptions are provided as context, not evidence of efficacy or medical advice. Absinthe is an alcoholic beverage, not medicine. See [`references/source-notes.md`](references/source-notes.md) for sources and QR availability notes.
 
 Generated botanical illustrations are original AI-created assets. Blend label thumbnails are TTB-submitted art retrieved from public label records via public image mirrors; each links to its official TTB COLA record.
+
+The web book uses the vendored HTML page-turn engine [StPageFlip (`page-flip@2.0.7`)](https://github.com/Nodlik/StPageFlip), under MIT; license is included in `assets/vendor`. It opens on a closed cover and shows two herb pages side-by-side in landscape mode.
