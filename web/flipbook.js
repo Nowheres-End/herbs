@@ -13,6 +13,25 @@
  const pageFlip=new St.PageFlip(book,{width:640,height:720,size:'stretch',minWidth:320,maxWidth:640,minHeight:360,maxHeight:720,drawShadow:true,flippingTime:1100,usePortrait:false,startPage:0,autoSize:false,maxShadowOpacity:.3,showCover:false,mobileScrollSupport:false,swipeDistance:24,clickEventForward:true,useMouseEvents:true,disableFlipByClick:false});
  pageFlip.loadFromHTML(book.querySelectorAll('.flip-page'));
  const stage=document.querySelector('#stage'),closedCover=document.querySelector('#closedCover');
- closedCover.addEventListener('click',()=>{stage.classList.add('is-open');closedCover.setAttribute('aria-hidden','true');setTimeout(()=>closedCover.setAttribute('hidden',''),1300)});
+ let autoAdvanceTimer;
+ const startAutoAdvance=()=>{
+  window.clearInterval(autoAdvanceTimer);
+  autoAdvanceTimer=window.setInterval(()=>{
+   const current=pageFlip.getCurrentPageIndex();
+   const lastSpreadStart=pageFlip.getPageCount()-2;
+   if(current>=lastSpreadStart){
+    pageFlip.turnToPage(0);
+    closedCover.removeAttribute('hidden');
+    closedCover.setAttribute('aria-hidden','false');
+    stage.classList.remove('is-open');
+    window.setTimeout(()=>{
+     stage.classList.add('is-open');
+     closedCover.setAttribute('aria-hidden','true');
+     window.setTimeout(()=>closedCover.setAttribute('hidden',''),1300);
+    },3000);
+   }else pageFlip.flipNext('bottom');
+  },8000);
+ };
+ closedCover.addEventListener('click',()=>{stage.classList.add('is-open');closedCover.setAttribute('aria-hidden','true');setTimeout(()=>closedCover.setAttribute('hidden',''),1300);startAutoAdvance()});
  window.addEventListener('keydown',event=>{if(['ArrowRight','PageDown'].includes(event.key)){event.preventDefault();pageFlip.flipNext('bottom')}if(['ArrowLeft','PageUp'].includes(event.key)){event.preventDefault();pageFlip.flipPrev('bottom')}});
 })();
