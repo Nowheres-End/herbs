@@ -22,4 +22,4 @@ Blend membership comes from the current public Nowhere’s End herb library. TTB
 
 Generated botanical illustrations are original AI-created assets. Blend label thumbnails are TTB-submitted art retrieved from public label records via public image mirrors; each links to its official TTB COLA record.
 
-The web book uses the vendored HTML page-turn engine [StPageFlip (`page-flip@2.0.7`)](https://github.com/Nodlik/StPageFlip), under MIT; license is included in `assets/vendor`. It opens on a closed cover and shows two herb pages side-by-side in landscape mode.
+The web book uses the vendored HTML page-turn engine [StPageFlip (`page-flip@2.0.7`)](https://github.com/Nodlik/StPageFlip), under MIT; license is included in `assets/vendor`. It opens on a closed cover and gives each herb its own two-page landscape spread.
