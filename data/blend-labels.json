@@ -1,0 +1,30 @@
+{
+  "verte": {
+    "label_name": "Chloris Verte",
+    "badge": "CV",
+    "color": "#426845",
+    "ttb_id": "26279001000398",
+    "ttb_url": "https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicDisplaySearchAdvanced&ttbid=26279001000398"
+  },
+  "rouge": {
+    "label_name": "Crimson",
+    "badge": "CR",
+    "color": "#9A4350",
+    "ttb_id": "26279001000412",
+    "ttb_url": "https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicDisplaySearchAdvanced&ttbid=26279001000412"
+  },
+  "detour": {
+    "label_name": "Detour",
+    "badge": "DT",
+    "color": "#B08442",
+    "ttb_id": "26279001000401",
+    "ttb_url": "https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicDisplaySearchAdvanced&ttbid=26279001000401"
+  },
+  "bleue": {
+    "label_name": "Boheme Bleue",
+    "badge": "BB",
+    "color": "#4B7585",
+    "ttb_id": "26279001000409",
+    "ttb_url": "https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicDisplaySearchAdvanced&ttbid=26279001000409"
+  }
+}
