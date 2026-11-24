@@ -39,7 +39,7 @@
         ]
       ],
       "slug": "wormwood",
-      "image_file": "assets/generated/wormwood.jpg",
+      "image_file": "assets/cutouts-webp/wormwood.webp",
       "traditional_use_summary": "Older herbal traditions used wormwood as a bitter to encourage appetite and aid digestion. Some herbals also list it as a worm-expelling remedy.",
       "blend_labels": [
         {
@@ -127,7 +127,7 @@
         ]
       ],
       "slug": "roman-wormwood",
-      "image_file": "assets/generated/roman-wormwood.jpg",
+      "image_file": "assets/cutouts-webp/roman-wormwood.webp",
       "traditional_use_summary": "Used as a gentler aromatic bitter in traditions focused on appetite and digestive comfort.",
       "blend_labels": [
         {
@@ -213,7 +213,7 @@
         ]
       ],
       "slug": "anise",
-      "image_file": "assets/generated/anise.jpg",
+      "image_file": "assets/cutouts-webp/anise.webp",
       "traditional_use_summary": "Traditional household use centers on gas and digestive discomfort. Herbals also describe anise tea for coughs and breath freshness.",
       "blend_labels": [
         {
@@ -301,7 +301,7 @@
         ]
       ],
       "slug": "fennel",
-      "image_file": "assets/generated/fennel.jpg",
+      "image_file": "assets/cutouts-webp/fennel.webp",
       "traditional_use_summary": "Historically used for bloating and indigestion. Traditional sources also describe fennel in teas for coughs.",
       "blend_labels": [
         {
@@ -391,7 +391,7 @@
         ]
       ],
       "slug": "coriander",
-      "image_file": "assets/generated/coriander.jpg",
+      "image_file": "assets/cutouts-webp/coriander.webp",
       "traditional_use_summary": "Coriander seed appears in traditional digestive preparations for gas and stomach discomfort, often after meals.",
       "blend_labels": [
         {
@@ -479,7 +479,7 @@
         ]
       ],
       "slug": "lemon-balm",
-      "image_file": "assets/generated/lemon-balm.jpg",
+      "image_file": "assets/cutouts-webp/lemon-balm.webp",
       "traditional_use_summary": "Traditional herbal use includes mild digestive upset and soothing teas associated with rest and nerves.",
       "blend_labels": [
         {
@@ -550,7 +550,7 @@
         ]
       ],
       "slug": "hyssop",
-      "image_file": "assets/generated/hyssop.jpg",
+      "image_file": "assets/cutouts-webp/hyssop.webp",
       "traditional_use_summary": "Older herbal literature describes hyssop infusions for coughs, along with external use for bruises and minor skin complaints.",
       "blend_labels": [
         {
@@ -614,7 +614,7 @@
         ]
       ],
       "slug": "angelica",
-      "image_file": "assets/generated/angelica.jpg",
+      "image_file": "assets/cutouts-webp/angelica.webp",
       "traditional_use_summary": "Historically used as a warming bitter for digestion. European herbals also include it in preparations for colds and chest complaints.",
       "blend_labels": [
         {
@@ -700,7 +700,7 @@
         ]
       ],
       "slug": "hibiscus",
-      "image_file": "assets/generated/hibiscus.jpg",
+      "image_file": "assets/cutouts-webp/hibiscus.webp",
       "traditional_use_summary": "Roselle calyces have a long history in cooling drinks. Regional traditions also use them for digestive and fever-related complaints.",
       "blend_labels": [
         {
@@ -762,7 +762,7 @@
         ]
       ],
       "slug": "rose",
-      "image_file": "assets/generated/rose.jpg",
+      "image_file": "assets/cutouts-webp/rose.webp",
       "traditional_use_summary": "Rose petals appear in historical soothing syrups and conserves, and in traditional cooling and digestive preparations.",
       "blend_labels": [
         {
@@ -824,7 +824,7 @@
         ]
       ],
       "slug": "lemon-verbena",
-      "image_file": "assets/generated/lemon-verbena.jpg",
+      "image_file": "assets/cutouts-webp/lemon-verbena.webp",
       "traditional_use_summary": "Traditional tea use centers on digestion and post-meal comfort. Some traditions also use it for calming.",
       "blend_labels": [
         {
@@ -884,7 +884,7 @@
         ]
       ],
       "slug": "gentian",
-      "image_file": "assets/generated/gentian.jpg",
+      "image_file": "assets/cutouts-webp/gentian.webp",
       "traditional_use_summary": "A classic digestive bitter, historically used in aperitif and stomachic preparations and to stimulate appetite.",
       "blend_labels": [
         {
@@ -947,7 +947,7 @@
         ]
       ],
       "slug": "orange-peel",
-      "image_file": "assets/generated/orange-peel.jpg",
+      "image_file": "assets/cutouts-webp/orange-peel.webp",
       "traditional_use_summary": "Traditional use centers on aromatic bitters, cordials, and warming after-meal digestifs.",
       "blend_labels": [
         {
@@ -1016,7 +1016,7 @@
         ]
       ],
       "slug": "rosehip",
-      "image_file": "assets/generated/rosehip.jpg",
+      "image_file": "assets/cutouts-webp/rosehip.webp",
       "traditional_use_summary": "Rose hips feature in syrups, teas, preserves, and other restorative household preparations, often as a seasonal tonic.",
       "blend_labels": [
         {
@@ -1078,7 +1078,7 @@
         ]
       ],
       "slug": "cardamom",
-      "image_file": "assets/generated/cardamom.jpg",
+      "image_file": "assets/cutouts-webp/cardamom.webp",
       "traditional_use_summary": "Traditional spice and household preparations use cardamom as a warming aromatic and carminative for digestive comfort.",
       "blend_labels": [
         {
@@ -1138,7 +1138,7 @@
         ]
       ],
       "slug": "grains-of-paradise",
-      "image_file": "assets/generated/grains-of-paradise.jpg",
+      "image_file": "assets/cutouts-webp/grains-of-paradise.webp",
       "traditional_use_summary": "Historical spice traditions use grains of paradise in warming, pepper-like digestive preparations.",
       "blend_labels": [
         {
@@ -1198,7 +1198,7 @@
         ]
       ],
       "slug": "star-anise",
-      "image_file": "assets/generated/star-anise.jpg",
+      "image_file": "assets/cutouts-webp/star-anise.webp",
       "traditional_use_summary": "A warming spice used traditionally in digestive teas and household remedies.",
       "blend_labels": [
         {
@@ -1258,7 +1258,7 @@
         ]
       ],
       "slug": "lemon-peel",
-      "image_file": "assets/generated/lemon-peel.jpg",
+      "image_file": "assets/cutouts-webp/lemon-peel.webp",
       "traditional_use_summary": "Traditional aromatic preparations use lemon peel in bitters, cordials, and digestion-focused after-meal drinks.",
       "blend_labels": [
         {
@@ -1318,7 +1318,7 @@
         ]
       ],
       "slug": "grapefruit-peel",
-      "image_file": "assets/generated/grapefruit-peel.jpg",
+      "image_file": "assets/cutouts-webp/grapefruit-peel.webp",
       "traditional_use_summary": "Modern bitter traditions value grapefruit peel for aromatic freshness. Its historical medicinal use is less established.",
       "blend_labels": [
         {
@@ -1380,7 +1380,7 @@
         ]
       ],
       "slug": "juniper",
-      "image_file": "assets/generated/juniper.jpg",
+      "image_file": "assets/cutouts-webp/juniper.webp",
       "traditional_use_summary": "European folk traditions used juniper berries in warming digestive preparations and diuretic remedies.",
       "blend_labels": [
         {
@@ -1442,7 +1442,7 @@
         ]
       ],
       "slug": "mastic",
-      "image_file": "assets/generated/mastic.jpg",
+      "image_file": "assets/cutouts-webp/mastic.webp",
       "traditional_use_summary": "Mastic resin appears in traditional chewing, oral-care, and digestive preparations.",
       "blend_labels": [
         {
@@ -1504,7 +1504,7 @@
         ]
       ],
       "slug": "rosemary",
-      "image_file": "assets/generated/rosemary.jpg",
+      "image_file": "assets/cutouts-webp/rosemary.webp",
       "traditional_use_summary": "Older herbals associate rosemary with warming preparations and memory. It also appears in household aromatics.",
       "blend_labels": [
         {
@@ -1565,7 +1565,7 @@
         ]
       ],
       "slug": "yarrow",
-      "image_file": "assets/generated/yarrow.jpg",
+      "image_file": "assets/cutouts-webp/yarrow.webp",
       "traditional_use_summary": "European folk use includes bitter infusions and external compresses for wounds. Some traditions also use yarrow for fever.",
       "blend_labels": [
         {
@@ -1626,7 +1626,7 @@
         ]
       ],
       "slug": "calendula",
-      "image_file": "assets/generated/calendula.jpg",
+      "image_file": "assets/cutouts-webp/calendula.webp",
       "traditional_use_summary": "Calendula has a long history in topical and household herbal preparations. Its petals also serve as a food colorant.",
       "blend_labels": [
         {
