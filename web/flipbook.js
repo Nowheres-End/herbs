@@ -12,8 +12,10 @@
   return [description,plate];
  });
  book.innerHTML=pages.join('');
- const pageFlip=new St.PageFlip(book,{width:640,height:720,size:'stretch',minWidth:160,maxWidth:640,minHeight:180,maxHeight:720,drawShadow:true,flippingTime:1100,usePortrait:false,startPage:0,autoSize:false,maxShadowOpacity:.3,showCover:false,mobileScrollSupport:false,swipeDistance:24,clickEventForward:true,useMouseEvents:true,disableFlipByClick:false});
+ const pageFlip=new St.PageFlip(book,{width:Math.max(160,book.clientWidth/2),height:Math.max(180,book.clientHeight),size:'stretch',minWidth:160,maxWidth:1920,minHeight:180,maxHeight:2160,drawShadow:true,flippingTime:1100,usePortrait:false,startPage:0,autoSize:false,maxShadowOpacity:.3,showCover:false,mobileScrollSupport:false,swipeDistance:24,clickEventForward:true,useMouseEvents:true,disableFlipByClick:false});
  pageFlip.loadFromHTML(book.querySelectorAll('.flip-page'));
+ const syncPageSize=()=>{const settings=pageFlip.getSettings();settings.width=Math.max(160,book.clientWidth/2);settings.height=Math.max(180,book.clientHeight);pageFlip.update()};
+ window.addEventListener('resize',()=>window.requestAnimationFrame(syncPageSize),{passive:true});
  const stage=document.querySelector('#stage'),closedCover=document.querySelector('#closedCover');
  let autoAdvanceTimer;
  const startAutoAdvance=()=>{
