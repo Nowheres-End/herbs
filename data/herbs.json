@@ -77,7 +77,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/artemisia-absinthium",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/wormwood.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/wormwood.html",
+      "featured_terpene": {
+        "name": "α-Pinene",
+        "slug": "alpha-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "3 linked references",
+        "source_url": "https://terpedia.com/organism/artemisia-absinthium",
+        "citations": [
+          "https://doi.org/10.1080/10412905.1992.9698115",
+          "https://doi.org/10.1080/10412905.1993.9698215"
+        ],
+        "structure_cid": 6654,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+      }
     },
     {
       "title": "Roman wormwood",
@@ -151,7 +165,20 @@
       ],
       "organism_url": "https://terpedia.com/organism/artemisia-pontica",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/roman-wormwood.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/roman-wormwood.html",
+      "featured_terpene": {
+        "name": "(E)-β-Farnesene",
+        "slug": "beta-farnesene",
+        "formula": "C15H24",
+        "class": "Acyclic sesquiterpene hydrocarbon",
+        "evidence_label": "1 linked reference",
+        "source_url": "https://terpedia.com/organism/artemisia-pontica",
+        "citations": [
+          "https://doi.org/10.1055/S-0028-1097498"
+        ],
+        "structure_cid": 5281517,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281517"
+      }
     },
     {
       "title": "Green anise",
@@ -224,7 +251,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/pimpinella-anisum",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/anise.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/anise.html",
+      "featured_terpene": {
+        "name": "α-Terpinene",
+        "slug": "alpha-terpinene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "2 linked references",
+        "source_url": "https://terpedia.com/organism/pimpinella-anisum",
+        "citations": [
+          "https://doi.org/10.1016/S0031-9422(98)00022-3",
+          "https://doi.org/10.1007/BF00629778"
+        ],
+        "structure_cid": 7462,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/7462"
+      }
     },
     {
       "title": "Florence fennel",
@@ -298,7 +339,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/foeniculum-vulgare",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/fennel.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/fennel.html",
+      "featured_terpene": {
+        "name": "Fenchone",
+        "slug": "fenchone",
+        "formula": "C10H16O",
+        "class": "Monoterpenoid ketone",
+        "evidence_label": "12 linked references",
+        "source_url": "https://terpedia.com/organism/foeniculum-vulgare",
+        "citations": [
+          "https://doi.org/10.1021/JF020504B",
+          "https://doi.org/10.1016/S0305-1978(96)00106-8"
+        ],
+        "structure_cid": 14525,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/14525"
+      }
     },
     {
       "title": "Coriander",
@@ -374,7 +429,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/coriandrum-sativum",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/coriander.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/coriander.html",
+      "featured_terpene": {
+        "name": "Linalool",
+        "slug": "linalool",
+        "formula": "C10H18O",
+        "class": "Monoterpenoid alcohol",
+        "evidence_label": "5 linked references",
+        "source_url": "https://terpedia.com/organism/coriandrum-sativum",
+        "citations": [
+          "https://doi.org/10.1021/JF00029A021",
+          "https://doi.org/10.1080/00032718208069510"
+        ],
+        "structure_cid": 6549,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6549"
+      }
     },
     {
       "title": "Lemon balm",
@@ -432,7 +501,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/melissa-officinalis",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/lemon-balm.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/lemon-balm.html",
+      "featured_terpene": {
+        "name": "β-Caryophyllene",
+        "slug": "beta-caryophyllene",
+        "formula": "C15H24",
+        "class": "Bicyclic sesquiterpene hydrocarbon",
+        "evidence_label": "4 linked references",
+        "source_url": "https://terpedia.com/organism/melissa-officinalis",
+        "citations": [
+          "https://doi.org/10.1055/S-2006-961551",
+          "https://doi.org/10.1002/FFJ.2730030406"
+        ],
+        "structure_cid": 5281515,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
+      }
     },
     {
       "title": "Hyssop",
@@ -481,7 +564,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/hyssopus-officinalis",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/hyssop.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/hyssop.html",
+      "featured_terpene": {
+        "name": "Linalool",
+        "slug": "linalool",
+        "formula": "C10H18O",
+        "class": "Monoterpenoid alcohol",
+        "evidence_label": "3 linked references",
+        "source_url": "https://terpedia.com/organism/hyssopus-officinalis",
+        "citations": [
+          "https://doi.org/10.1021/JF00039A035",
+          "https://doi.org/10.1002/FFJ.2730060109"
+        ],
+        "structure_cid": 6549,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6549"
+      }
     },
     {
       "title": "Angelica",
@@ -555,7 +652,20 @@
       ],
       "organism_url": "https://terpedia.com/organism/angelica-archangelica",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/angelica.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/angelica.html",
+      "featured_terpene": {
+        "name": "Myrcene",
+        "slug": "myrcene",
+        "formula": "C10H16",
+        "class": "Acyclic monoterpene hydrocarbon",
+        "evidence_label": "2 linked references",
+        "source_url": "https://terpedia.com/organism/angelica-archangelica",
+        "citations": [
+          "https://doi.org/10.1021/JF00046A030"
+        ],
+        "structure_cid": 31253,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/31253"
+      }
     },
     {
       "title": "Hibiscus",
@@ -604,7 +714,21 @@
       ],
       "organism_url": "https://terpedia.com/organism",
       "organism_record_exact": false,
-      "source_page": "https://nowhere.terpedia.com/herbs/hibiscus.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/hibiscus.html",
+      "featured_terpene": {
+        "name": "Linalool",
+        "slug": "linalool",
+        "formula": "C10H18O",
+        "class": "Monoterpenoid alcohol",
+        "evidence_label": "Calyx volatile-oil study · occurrence only",
+        "source_url": "https://doi.org/10.3390/molecules26206260",
+        "citations": [
+          "https://doi.org/10.3390/molecules26206260"
+        ],
+        "evidence_note": "Linalool was reported in Hibiscus sabdariffa calyx samples; occurrence can vary with drying and extraction.",
+        "structure_cid": 6549,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6549"
+      }
     },
     {
       "title": "Rose",
@@ -652,7 +776,21 @@
       ],
       "organism_url": "https://terpedia.com/organism",
       "organism_record_exact": false,
-      "source_page": "https://nowhere.terpedia.com/herbs/rose.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/rose.html",
+      "featured_terpene": {
+        "name": "Geraniol",
+        "slug": "geraniol",
+        "formula": "C10H18O",
+        "class": "Acyclic monoterpenoid alcohol",
+        "evidence_label": "Damask-rose petals · species proxy",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228154/",
+        "citations": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228154/"
+        ],
+        "evidence_note": "The blend record does not specify a rose species; this study reports geraniol in Rosa × damascena petals.",
+        "structure_cid": 637566,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/637566"
+      }
     },
     {
       "title": "Lemon verbena",
@@ -700,7 +838,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/aloysia-citrodora",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/lemon-verbena.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/lemon-verbena.html",
+      "featured_terpene": {
+        "name": "α-Pinene",
+        "slug": "alpha-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "4 linked references",
+        "source_url": "https://terpedia.com/organism/aloysia-citrodora",
+        "citations": [
+          "https://doi.org/10.1016/S0367-326X(98)00016-1",
+          "https://doi.org/10.1080/10412905.1994.9698440"
+        ],
+        "structure_cid": 6654,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+      }
     },
     {
       "title": "Gentian",
@@ -746,7 +898,21 @@
       ],
       "organism_url": "https://terpedia.com/organism",
       "organism_record_exact": false,
-      "source_page": "https://nowhere.terpedia.com/herbs/gentian.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/gentian.html",
+      "featured_terpene": {
+        "name": "Limonene",
+        "slug": "limonene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "Root volatile-oil report · occurrence only",
+        "source_url": "https://air.unimi.it/bitstream/2434/548112/2/efs3070828.pdf",
+        "citations": [
+          "https://air.unimi.it/bitstream/2434/548112/2/efs3070828.pdf"
+        ],
+        "evidence_note": "Reported as a constituent of Gentiana lutea root volatile oil; composition varies across wild, cultivated, and commercial roots.",
+        "structure_cid": 22311,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+      }
     },
     {
       "title": "Orange peel",
@@ -803,7 +969,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/citrus-sinensis",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/orange-peel.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/orange-peel.html",
+      "featured_terpene": {
+        "name": "Limonene",
+        "slug": "limonene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "5 linked references",
+        "source_url": "https://terpedia.com/organism/citrus-sinensis",
+        "citations": [
+          "https://doi.org/10.1021/JF60196A027",
+          "https://doi.org/10.1021/JF00112A015"
+        ],
+        "structure_cid": 22311,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+      }
     },
     {
       "title": "Rosehip",
@@ -850,7 +1030,22 @@
       ],
       "organism_url": "https://terpedia.com/organism",
       "organism_record_exact": false,
-      "source_page": "https://nowhere.terpedia.com/herbs/rosehip.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/rosehip.html",
+      "featured_terpene": {
+        "name": "β-Ionone",
+        "heading": "FEATURED TERPENOID",
+        "slug": "beta-ionone",
+        "formula": "C13H20O",
+        "class": "Apocarotenoid (terpenoid)",
+        "evidence_label": "Rose-hip oil report · occurrence only",
+        "source_url": "https://www.czytelniamedyczna.pl/4272%2Cbadanie-skadu-chemicznego-olejklw-eterycznych-otrzymywanych-z-pseudoowoclw-rodzi.html",
+        "citations": [
+          "https://www.czytelniamedyczna.pl/4272%2Cbadanie-skadu-chemicznego-olejklw-eterycznych-otrzymywanych-z-pseudoowoclw-rodzi.html"
+        ],
+        "evidence_note": "β-Ionone is a carotenoid-derived norisoprenoid reported in oils from hips of Rosa canina and related species.",
+        "structure_cid": 638014,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/638014"
+      }
     },
     {
       "title": "Cardamom",
@@ -897,7 +1092,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/elettaria-cardamomum",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/cardamom.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/cardamom.html",
+      "featured_terpene": {
+        "name": "α-Terpineol",
+        "slug": "alpha-terpineol",
+        "formula": "C10H18O",
+        "class": "Monoterpenoid alcohol",
+        "evidence_label": "3 linked references",
+        "source_url": "https://terpedia.com/organism/elettaria-cardamomum",
+        "citations": [
+          "https://doi.org/10.1021/JF00011A020",
+          "https://doi.org/10.1021/JF00011A018"
+        ],
+        "structure_cid": 17100,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/17100"
+      }
     },
     {
       "title": "Grains of paradise",
@@ -943,7 +1152,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/aframomum-melegueta",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/grains-of-paradise.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/grains-of-paradise.html",
+      "featured_terpene": {
+        "name": "β-Caryophyllene",
+        "slug": "beta-caryophyllene",
+        "formula": "C15H24",
+        "class": "Bicyclic sesquiterpene hydrocarbon",
+        "evidence_label": "3 linked references",
+        "source_url": "https://terpedia.com/organism/aframomum-melegueta",
+        "citations": [
+          "https://doi.org/10.1016/J.PHYTOCHEM.2009.03.012",
+          "https://doi.org/10.1080/10412905.1993.9698174"
+        ],
+        "structure_cid": 5281515,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
+      }
     },
     {
       "title": "Star anise",
@@ -989,7 +1212,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/illicium-verum",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/star-anise.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/star-anise.html",
+      "featured_terpene": {
+        "name": "γ-Terpinene",
+        "slug": "gamma-terpinene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "2 linked references",
+        "source_url": "https://terpedia.com/organism/illicium-verum",
+        "citations": [
+          "https://doi.org/10.1007/BF02860485",
+          "https://doi.org/10.1080/10412905.1990.9697830"
+        ],
+        "structure_cid": 7461,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/7461"
+      }
     },
     {
       "title": "Lemon peel",
@@ -1035,7 +1272,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/citrus-limon",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/lemon-peel.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/lemon-peel.html",
+      "featured_terpene": {
+        "name": "Limonene",
+        "slug": "limonene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "11 linked references",
+        "source_url": "https://terpedia.com/organism/citrus-limon",
+        "citations": [
+          "https://doi.org/10.1093/CHROMSCI/36.1.37",
+          "https://doi.org/10.1080/10412905.1990.9697880"
+        ],
+        "structure_cid": 22311,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+      }
     },
     {
       "title": "Grapefruit peel",
@@ -1081,7 +1332,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/citrus-paradisi",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/grapefruit-peel.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/grapefruit-peel.html",
+      "featured_terpene": {
+        "name": "Limonene",
+        "slug": "limonene",
+        "formula": "C10H16",
+        "class": "Monoterpene hydrocarbon",
+        "evidence_label": "4 linked references",
+        "source_url": "https://terpedia.com/organism/citrus-paradisi",
+        "citations": [
+          "https://doi.org/10.1021/JF60196A027",
+          "https://doi.org/10.1271/BBB1961.55.2571"
+        ],
+        "structure_cid": 22311,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+      }
     },
     {
       "title": "Juniper",
@@ -1129,7 +1394,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/juniperus-communis",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/juniper.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/juniper.html",
+      "featured_terpene": {
+        "name": "α-Pinene",
+        "slug": "alpha-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "5 linked references",
+        "source_url": "https://terpedia.com/organism/juniperus-communis",
+        "citations": [
+          "https://doi.org/10.1080/10412905.1989.9699439",
+          "https://doi.org/10.1002/FFJ.2730070106"
+        ],
+        "structure_cid": 6654,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+      }
     },
     {
       "title": "Mastic",
@@ -1177,7 +1456,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/pistacia-lentiscus",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/mastic.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/mastic.html",
+      "featured_terpene": {
+        "name": "α-Pinene",
+        "slug": "alpha-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "Mastic-resin oils · extraction varies",
+        "source_url": "https://www.nature.com/articles/s41598-024-74972-7",
+        "citations": [
+          "https://doi.org/10.1038/s41598-024-74972-7"
+        ],
+        "evidence_note": "Reported among major volatile constituents of Pistacia lentiscus oleo-gum resin; resin age and extraction affect composition.",
+        "structure_cid": 6654,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+      }
     },
     {
       "title": "Rosemary",
@@ -1225,7 +1518,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/salvia-rosmarinus",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/rosemary.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/rosemary.html",
+      "featured_terpene": {
+        "name": "α-Pinene",
+        "slug": "alpha-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "8 linked references",
+        "source_url": "https://terpedia.com/organism/salvia-rosmarinus",
+        "citations": [
+          "https://doi.org/10.1002/PTR.2650090215",
+          "https://doi.org/10.1111/J.1365-2621.1985.TB10476.X"
+        ],
+        "structure_cid": 6654,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+      }
     },
     {
       "title": "Yarrow",
@@ -1272,7 +1579,21 @@
       ],
       "organism_url": "https://terpedia.com/organism/achillea-millefolium",
       "organism_record_exact": true,
-      "source_page": "https://nowhere.terpedia.com/herbs/yarrow.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/yarrow.html",
+      "featured_terpene": {
+        "name": "β-Pinene",
+        "slug": "beta-pinene",
+        "formula": "C10H16",
+        "class": "Bicyclic monoterpene hydrocarbon",
+        "evidence_label": "3 linked references",
+        "source_url": "https://terpedia.com/organism/achillea-millefolium",
+        "citations": [
+          "https://doi.org/10.1055/S-0028-1097815",
+          "https://doi.org/10.1080/10412905.1990.9697890"
+        ],
+        "structure_cid": 14896,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/14896"
+      }
     },
     {
       "title": "Calendula",
@@ -1319,7 +1640,21 @@
       ],
       "organism_url": "https://terpedia.com/organism",
       "organism_record_exact": false,
-      "source_page": "https://nowhere.terpedia.com/herbs/calendula.html"
+      "source_page": "https://nowhere.terpedia.com/herbs/calendula.html",
+      "featured_terpene": {
+        "name": "α-Cadinol",
+        "slug": "alpha-cadinol",
+        "formula": "C15H26O",
+        "class": "Sesquiterpenoid alcohol",
+        "evidence_label": "Flower-oil report · occurrence only",
+        "source_url": "https://doi.org/10.1080/10412905.2010.9700287",
+        "citations": [
+          "https://doi.org/10.1080/10412905.2010.9700287",
+          "https://doi.org/10.1002/ffj.3661"
+        ],
+        "structure_cid": 10398656,
+        "structure_url": "https://pubchem.ncbi.nlm.nih.gov/compound/10398656"
+      }
     }
   ]
 }

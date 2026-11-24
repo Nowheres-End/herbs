@@ -22,4 +22,6 @@ Blend membership comes from the current public Nowhere’s End herb library. TTB
 
 Generated botanical illustrations are original AI-created assets. Blend label thumbnails are TTB-submitted art retrieved from public label records via public image mirrors; each links to its official TTB COLA record.
 
-The web book uses the vendored HTML page-turn engine [StPageFlip (`page-flip@2.0.7`)](https://github.com/Nodlik/StPageFlip), under MIT; license is included in `assets/vendor`. It opens on a closed cover and gives each herb its own two-page landscape spread.
+The web book uses the vendored HTML page-turn engine [StPageFlip (`page-flip@2.0.7`)](https://github.com/Nodlik/StPageFlip), under MIT; license is included in `assets/vendor`. It opens on a closed cover and gives each herb its own two-page landscape spread. Each facing illustration page includes a sourced terpene or terpenoid spotlight. Occurrence sources and plant-part qualifications are recorded with each entry in `data/herbs.json`; 2D molecular structures are from [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+
+See [`references/terpene-selections.md`](references/terpene-selections.md) for the full 24-plant selection and citations. Literature occurrence does not establish abundance in a blend or medicinal effect.

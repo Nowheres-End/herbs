@@ -6,7 +6,9 @@
  const pages=data.botanicals.flatMap(h=>{
   const labels=h.blend_labels.map(l=>`<a class="blend-link" href="${esc(l.ttb_url)}" target="_blank" rel="noopener"><img src="assets/ttb-labels/${labelFiles[l.blend]}.webp" alt=""><span>${esc(l.label_name)}</span></a>`).join('');
   const description=`<article class="flip-page info-page"><div class="info-frame"><h2 class="herb-name">${esc(h.title)}</h2><p class="herb-latin">${esc(h.latin)}</p><h3 class="traditional-heading">TRADITIONAL &amp; HISTORICAL USE</h3><p class="traditional-copy">${esc(h.traditional_use_summary)}</p><p class="caution">Historical descriptions only; not evidence of treatment or a recommendation for use.</p><a class="qr-link" href="${esc(h.organism_url)}" target="_blank" rel="noopener" aria-label="Terpedia organism record for ${esc(h.title)}"><img class="qr" src="assets/qr/${esc(h.slug)}.png" alt="QR code"></a></div></article>`;
-  const plate=`<article class="flip-page plate-page"><img class="plate-art" src="${esc(h.image_file)}" alt="${esc(h.title)} botanical illustration"><div class="plate-blends"><div class="blend-links">${labels}</div></div></article>`;
+  const t=h.featured_terpene;
+  const feature=t?`<a class="terpene-feature" href="${esc(t.source_url)}" target="_blank" rel="noopener" title="${esc(t.evidence_note||t.evidence_label)}" aria-label="Evidence for ${esc(t.name)} reported in ${esc(h.title)}"><span class="terpene-kicker">${esc(t.heading||'FEATURED TERPENE')}</span><span class="terpene-body"><img class="terpene-structure" src="assets/molecules/${esc(t.slug)}.png" alt="2D structure of ${esc(t.name)}"><span class="terpene-copy"><strong>${esc(t.name)}</strong><span>${esc(t.class)} · ${esc(t.formula)}</span><small>${esc(t.evidence_label)}</small></span></span></a>`:'';
+  const plate=`<article class="flip-page plate-page"><img class="plate-art" src="${esc(h.image_file)}" alt="${esc(h.title)} botanical illustration">${feature}<div class="plate-blends"><div class="blend-links">${labels}</div></div></article>`;
   return [description,plate];
  });
  book.innerHTML=pages.join('');
