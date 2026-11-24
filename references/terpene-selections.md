@@ -1,6 +1,6 @@
 # Featured terpene selections
 
-A spotlight is a literature-reported compound associated with the plant. It does not claim abundance in the absinthe blend, medicinal efficacy, or that every chemotype contains the compound. Where the selected source names a specific plant part, the entry preserves that scope. A few public Terpedia organism routes are not available for the exact taxon; those records use the linked study or review directly.
+A spotlight is a literature-reported compound associated with the plant. Terpenes and terpenoids can have pharmacological effects; the strength and relevance of evidence vary by molecule, preparation, dose, route, and study type. These occurrence records document that compounds have been reported from a plant, not their abundance in the absinthe blend or a therapeutic dose or outcome. Where the selected source names a specific plant part, the entry preserves that scope. A few public Terpedia organism routes are not available for the exact taxon; those records use the linked study or review directly.
 
 | Plant | Spotlight | Classification | Evidence |
 |---|---|---|---|
@@ -29,4 +29,4 @@ A spotlight is a literature-reported compound associated with the plant. It does
 | Yarrow | β-Pinene · C10H16 | Bicyclic monoterpene hydrocarbon | [3 linked references](https://terpedia.com/organism/achillea-millefolium); [source 1](https://doi.org/10.1055/S-0028-1097815); [source 2](https://doi.org/10.1080/10412905.1990.9697890). |
 | Calendula | α-Cadinol · C15H26O | Sesquiterpenoid alcohol | [Flower-oil report · occurrence only](https://doi.org/10.1080/10412905.2010.9700287); [source 1](https://doi.org/10.1080/10412905.2010.9700287); [source 2](https://doi.org/10.1002/ffj.3661). |
 
-Structure images are 2D PubChem depictions linked by CID in `data/herbs.json` and were downloaded from PubChem PUG REST. The compound structure is illustrative chemistry metadata, not a measurement from the finished beverage.
+Structure images are 2D PubChem depictions linked by CID in `data/herbs.json` and were downloaded from PubChem PUG REST. The compound structure is illustrative chemistry metadata, not a measurement from the finished beverage. For broader context, see this [review of terpene pharmacology and translational evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12127327/) and the experimental report of [β-caryophyllene activity at CB₂](https://pmc.ncbi.nlm.nih.gov/articles/PMC2449371/).
